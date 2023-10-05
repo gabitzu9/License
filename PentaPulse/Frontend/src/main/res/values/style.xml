@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationTextStyle">
+        <item name="android:textSize">18dp</item> <!-- Setați dimensiunea textului -->
+        <item name="android:textColor">@color/bottom_navigation_item_color</item> <!-- Setați culoarea textului -->
+        <item name="android:textStyle">bold</item> <!-- Setați stilul textului -->
+    </style>
+
+</resources>

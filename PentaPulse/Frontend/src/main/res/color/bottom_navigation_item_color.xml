@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- bottom_navigation_item_color.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#1FC7DD" android:state_checked="true" />
+    <item android:color="@color/quantum_error_light" />
+</selector>

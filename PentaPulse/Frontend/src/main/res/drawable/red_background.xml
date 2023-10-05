@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0000" /><!-- Culoarea roșie -->
+    <corners android:radius="20dp" /> <!-- Raza colțurilor (jumătate din lățimea imaginii) -->
+</shape>
